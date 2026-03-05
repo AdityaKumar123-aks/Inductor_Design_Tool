@@ -2,6 +2,6 @@
 
 A tool to design High-frequency inductors.
 
-Feel free to try 😊
+Please feel free to try 😊
 
 Link: https://psd747-5173.csb.app/
